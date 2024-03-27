@@ -1,0 +1,23 @@
+{
+  "name": "frontend-cli",
+  "version": "1.0.0",
+  "description": "font-end command line interface tool",
+  "main": "./build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/273299007/frontend-cli.git"
+  },
+  "keywords": [
+    "frontend-cli"
+  ],
+  "author": "Will Feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/273299007/frontend-cli/issues"
+  },
+  "homepage": "https://github.com/273299007/frontend-cli#readme"
+}
